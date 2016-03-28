@@ -1,0 +1,43 @@
+site_name: "Sycko City - Game Design Document"
+site_description: "Teste"
+site_url: 'https://syckocity.com'
+
+# Copyright
+copyright: 'Copyright (c) 2016 Sycko City'
+
+# Documentation and theme
+docs_dir: 'docs'
+theme: 'material'
+
+extra_css: ['/stylesheets/extra.css']
+
+pages: 
+ - Home: 'index.md'
+ - Project Overview: 'ProjectOverview.md'
+ - Gameplay and Mechanics: 'gameplay.md'
+
+# Options
+extra:
+  version: 'v0.1.0'
+  logo: 'images/logo.png'
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
+
+# Google Analytics
+google_analytics:
+  - 'UA-XXXXXXXX-X'
+  - 'auto'
+
+# Extensions
+markdown_extensions:
+  - codehilite(css_class=code)
+  - admonition
+  - toc:
+      permalink: '#'

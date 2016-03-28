@@ -1,0 +1,59 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to Sycko City Game Design Document\n#\n\n\nThis page is intent to guide the developers", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-sycko-city-game-design-document", 
+            "text": "This page is intent to guide the developers", 
+            "title": "Welcome to Sycko City Game Design Document"
+        }, 
+        {
+            "location": "/ProjectOverview/", 
+            "text": "Project Overview\n#\n\n\nGame Concept\n#\n\n\nSycko City is a competitive multiplayer online game set on a post-apocalypse world where the player play as one single character and fight against other players from other gangs/factions in matchs.\n\n\nGenre\n#\n\n\nAction, Beat 'em Up, MMO\n\n\nTarget Audience\n#\n\n\nEveryone from 14 to 24 yo.\n\n\nGame Flow Summary\n#\n\n\nProgramming Flow\n\n\n\nGame Flow\n\n\nLook and Feel\n#", 
+            "title": "Project Overview"
+        }, 
+        {
+            "location": "/ProjectOverview/#project-overview", 
+            "text": "", 
+            "title": "Project Overview"
+        }, 
+        {
+            "location": "/ProjectOverview/#game-concept", 
+            "text": "Sycko City is a competitive multiplayer online game set on a post-apocalypse world where the player play as one single character and fight against other players from other gangs/factions in matchs.", 
+            "title": "Game Concept"
+        }, 
+        {
+            "location": "/ProjectOverview/#genre", 
+            "text": "Action, Beat 'em Up, MMO", 
+            "title": "Genre"
+        }, 
+        {
+            "location": "/ProjectOverview/#target-audience", 
+            "text": "Everyone from 14 to 24 yo.", 
+            "title": "Target Audience"
+        }, 
+        {
+            "location": "/ProjectOverview/#game-flow-summary", 
+            "text": "Programming Flow  Game Flow", 
+            "title": "Game Flow Summary"
+        }, 
+        {
+            "location": "/ProjectOverview/#look-and-feel", 
+            "text": "", 
+            "title": "Look and Feel"
+        }, 
+        {
+            "location": "/gameplay/", 
+            "text": "Gameplay and Mechanics\n#", 
+            "title": "Gameplay and Mechanics"
+        }, 
+        {
+            "location": "/gameplay/#gameplay-and-mechanics", 
+            "text": "", 
+            "title": "Gameplay and Mechanics"
+        }
+    ]
+}
