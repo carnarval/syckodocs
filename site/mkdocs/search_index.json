@@ -47,13 +47,98 @@
         }, 
         {
             "location": "/gameplay/", 
-            "text": "Gameplay and Mechanics\n#", 
+            "text": "Gameplay and Mechanics\n#\n\n\nGameplay\n#\n\n\nGame Progression\n#\n\n\nThere is two types of progression in the game, one is the \ncompetitive: the ranking, and the another one is the casual/individual: the level and achievements. \nWe will describe this two types below and how the'll affect the gameplay.\n\n\nRanking\n#\n\n\n    Worms's task\n\n\n\n\nLevel \n Achievements\n#\n\n\nLevel\n#\n\n\nAs many other games level is the basic casual and individual progression.\nAs you play you gain \nexperience\n and also \nlevel\n. As you reach new level\nyou unlock new items, basically \nrollers\n and also \nweapons\n.   \n\n\nThis table describe the level and weapons that players can unlock     \n\n\n\n\n\n\n\n\nLevel\n\n\nWeapon\n\n\nRoller\n\n\n\n\n\n\n\n\n\n\n1\n\n\nmetal\n\n\nis the law\n\n\n\n\n\n\n\n\nAchievements\n#\n\n\nAchievements are self compensations for things that you do on your own.\n\n\nList of achievements    \n\n\n\n\n\n\n\n\nAchievements\n\n\n\n\n\n\n\n\n\n\nKill 10 people\n\n\n\n\n\n\n\n\nObjectives and Matches.\n#\n\n\nOn Sycko City Early Access the main objective of the player is just\nwin the matches and advance his level/rank. \n\nThere are two kind of games (\ncasual\n and \nranked\n) and two kind of \nmatches(\nTDM\n and *DM\n). Those who begin to play the game start playing in\n\ncasual\n modes because it's just fun and not so much competitive/serious. As you become more\nskilled in the game and also powerful you will start to want more serious games \nwith players skilled as you, and for you we offer the \nranked* mode.\n\n\nPlay Flow\n#\n\n\nAs the gamer begin Sycko City, his first duty is create his own character,\nafter that he joins the Lobby where he can choose whatever he want to do inside the Sycko\nCity possibilities: join game matches, learn practicing, customize his character,\nbuy items (both cosmetic and functional) and also many other things.\n\n\nMechanics\n#\n\n\nSycko City mechanics is simple and objective.\n\n\nPhysics\n#\n\n\nThe game physics is a reproduction of the newtonian on a 3D space, but with more joy.\n\nThe player movement uses the joystick X,Y Axis or the keyboard arrows to move, \nit's a accelerated and inertial movement.    \n\n\n        We are also studying a possible acceleration and deacceleration button to player's movement.\n\n\n\n\nInteractive Objects\n#\n\n\nEvery object that have a minimal physics applied and that is inside game matches is considered interactive. The main and\nfundamental type of objects are the weapons, almost every interactive object is a weapon, like a trash can or a metal bar.\nThat's also one of the reasons why we call Sycko City a beat 'em up game.    \n\n\nThere is also another kind of interactive object that you can get outside of game matches and it's\ncalled Items. There are basically two kind of interactive items: Weapons and Rollers\n\n\nInteractive Objects Table - Get only inside matches\n#\n\n\n\n\n\n\n\n\nInteractive Object\n\n\nFunctionatily\n\n\n\n\n\n\n\n\n\n\nWhey Bar\n\n\n+10% of Health\n\n\n\n\n\n\n\n\nInteractive Weapons Table - Get only inside matches\n#\n\n\n\n\n\n\n\n\nWeapons Name\n\n\nMin Damage\n\n\nMax Damage\n\n\nDurability\n\n\nAttack Speed\n\n\n\n\n\n\n\n\n\n\nBottle\n\n\n2\n\n\n6\n\n\n3\n\n\n0.3s\n\n\n\n\n\n\n\n\nWeapon Items Table - Must be equipped outside matches\n#\n\n\n\n\n\n\n\n\nWeapons Name\n\n\nMin Damage\n\n\nMax Damage\n\n\nDurability\n\n\nAttack Speed\n\n\n\n\n\n\n\n\n\n\nCatuaba's Bottle\n\n\n3\n\n\n9\n\n\n6\n\n\n0.3s\n\n\n\n\n\n\n\n\nRollers Items Table - Must be equipped outside matches\n#\n\n\n\n\n\n\n\n\nRoller Name\n\n\nPassive Effect\n\n\n\n\n\n\n\n\n\n\n10Ben Inliner\n\n\n+10% of speed\n\n\n\n\n\n\n\n\n\n\nPS: inside matches you must pickup or drop your weapons through the specified pickup button.\n\n\n\n\nAction\n#\n\n\nThere is just a few important explanation about players attack in this section.\nTo attack players must hold and release the buttons to have a more effective attack. \nHold and Release speed changes with the character equipped weapon/roller.\n\n\nAbout buttons \n\n\n  Pickup objects: use the pickup button\n\n Attack L: Hold the Left Attack button.\n\n Attack R: Hold Right Attack button.\n\nDefense: Hold the deffense button.\n*Movement: move with the joystick axis or keyboard arrows.\n\n\nCombat\n#", 
             "title": "Gameplay and Mechanics"
         }, 
         {
             "location": "/gameplay/#gameplay-and-mechanics", 
             "text": "", 
             "title": "Gameplay and Mechanics"
+        }, 
+        {
+            "location": "/gameplay/#gameplay", 
+            "text": "", 
+            "title": "Gameplay"
+        }, 
+        {
+            "location": "/gameplay/#game-progression", 
+            "text": "There is two types of progression in the game, one is the \ncompetitive: the ranking, and the another one is the casual/individual: the level and achievements. \nWe will describe this two types below and how the'll affect the gameplay.", 
+            "title": "Game Progression"
+        }, 
+        {
+            "location": "/gameplay/#ranking", 
+            "text": "Worms's task", 
+            "title": "Ranking"
+        }, 
+        {
+            "location": "/gameplay/#level-achievements", 
+            "text": "", 
+            "title": "Level &amp; Achievements"
+        }, 
+        {
+            "location": "/gameplay/#level", 
+            "text": "As many other games level is the basic casual and individual progression.\nAs you play you gain  experience  and also  level . As you reach new level\nyou unlock new items, basically  rollers  and also  weapons .     This table describe the level and weapons that players can unlock          Level  Weapon  Roller      1  metal  is the law", 
+            "title": "Level"
+        }, 
+        {
+            "location": "/gameplay/#achievements", 
+            "text": "Achievements are self compensations for things that you do on your own.  List of achievements         Achievements      Kill 10 people", 
+            "title": "Achievements"
+        }, 
+        {
+            "location": "/gameplay/#objectives-and-matches", 
+            "text": "On Sycko City Early Access the main objective of the player is just\nwin the matches and advance his level/rank.  \nThere are two kind of games ( casual  and  ranked ) and two kind of \nmatches( TDM  and *DM ). Those who begin to play the game start playing in casual  modes because it's just fun and not so much competitive/serious. As you become more\nskilled in the game and also powerful you will start to want more serious games \nwith players skilled as you, and for you we offer the  ranked* mode.", 
+            "title": "Objectives and Matches."
+        }, 
+        {
+            "location": "/gameplay/#play-flow", 
+            "text": "As the gamer begin Sycko City, his first duty is create his own character,\nafter that he joins the Lobby where he can choose whatever he want to do inside the Sycko\nCity possibilities: join game matches, learn practicing, customize his character,\nbuy items (both cosmetic and functional) and also many other things.", 
+            "title": "Play Flow"
+        }, 
+        {
+            "location": "/gameplay/#mechanics", 
+            "text": "Sycko City mechanics is simple and objective.", 
+            "title": "Mechanics"
+        }, 
+        {
+            "location": "/gameplay/#physics", 
+            "text": "The game physics is a reproduction of the newtonian on a 3D space, but with more joy. \nThe player movement uses the joystick X,Y Axis or the keyboard arrows to move, \nit's a accelerated and inertial movement.              We are also studying a possible acceleration and deacceleration button to player's movement.", 
+            "title": "Physics"
+        }, 
+        {
+            "location": "/gameplay/#interactive-objects", 
+            "text": "Every object that have a minimal physics applied and that is inside game matches is considered interactive. The main and\nfundamental type of objects are the weapons, almost every interactive object is a weapon, like a trash can or a metal bar.\nThat's also one of the reasons why we call Sycko City a beat 'em up game.      There is also another kind of interactive object that you can get outside of game matches and it's\ncalled Items. There are basically two kind of interactive items: Weapons and Rollers", 
+            "title": "Interactive Objects"
+        }, 
+        {
+            "location": "/gameplay/#interactive-objects-table-get-only-inside-matches", 
+            "text": "Interactive Object  Functionatily      Whey Bar  +10% of Health", 
+            "title": "Interactive Objects Table - Get only inside matches"
+        }, 
+        {
+            "location": "/gameplay/#interactive-weapons-table-get-only-inside-matches", 
+            "text": "Weapons Name  Min Damage  Max Damage  Durability  Attack Speed      Bottle  2  6  3  0.3s", 
+            "title": "Interactive Weapons Table - Get only inside matches"
+        }, 
+        {
+            "location": "/gameplay/#weapon-items-table-must-be-equipped-outside-matches", 
+            "text": "Weapons Name  Min Damage  Max Damage  Durability  Attack Speed      Catuaba's Bottle  3  9  6  0.3s", 
+            "title": "Weapon Items Table - Must be equipped outside matches"
+        }, 
+        {
+            "location": "/gameplay/#rollers-items-table-must-be-equipped-outside-matches", 
+            "text": "Roller Name  Passive Effect      10Ben Inliner  +10% of speed      PS: inside matches you must pickup or drop your weapons through the specified pickup button.", 
+            "title": "Rollers Items Table - Must be equipped outside matches"
+        }, 
+        {
+            "location": "/gameplay/#action", 
+            "text": "There is just a few important explanation about players attack in this section.\nTo attack players must hold and release the buttons to have a more effective attack. \nHold and Release speed changes with the character equipped weapon/roller.  About buttons     Pickup objects: use the pickup button  Attack L: Hold the Left Attack button.  Attack R: Hold Right Attack button. Defense: Hold the deffense button.\n*Movement: move with the joystick axis or keyboard arrows.", 
+            "title": "Action"
+        }, 
+        {
+            "location": "/gameplay/#combat", 
+            "text": "", 
+            "title": "Combat"
         }
     ]
 }
