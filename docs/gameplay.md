@@ -92,16 +92,46 @@ called Items. There are basically two kind of interactive items: Weapons and Rol
 
 * PS: inside matches you must pickup or drop your weapons through the specified pickup button.
 
-### Action
-There is just a few important explanation about players attack in this section.
-To attack players must hold and release the buttons to have a more effective attack. 
+### Action and Combat
+
+Sycko City is a multilayer fight game where players fight against each other with
+cold weapons and rollers on foot, and to attack, players must hold and release the attack buttons to have a more effective attack. 
 Hold and Release speed changes with the character equipped weapon/roller.
 
-About buttons   
-*  Pickup objects: use the pickup button
-* Attack L: Hold the Left Attack button.
-* Attack R: Hold Right Attack button.
-*Defense: Hold the deffense button.
-*Movement: move with the joystick axis or keyboard arrows.
 
-### Combat
+### Buttons
+| Button        | Keyboard | Joystick |
+|     ---       | ---      | ---      |
+| Attack L      |   A      |    X     |
+| Attack R      |     S    |     A    |
+| Defense       |     X    |    L1    |
+| Movement      |Directional| L-Axis  |
+
+
+### Economy
+
+The game mechanics economy is basically the money and the progression as explained above. The money of the game
+is the quantity of water that a character have, let's say that it's the exchange coin. As player progress in game he unlocks
+more items and then he can spend his water on it. He also can buy cosmetic items with real life money.
+
+
+### Screen Flow
+![GameFlow Image](images/gameflow.jpg)
+
+## Game Option
+Game option is divided in sections, below is each one of them.
+
+### Graphic Section
+On Graphic Section you can adjust your brightness and your graphic quality. You
+can toggle from fullscreen to windowed and also change the screen size.
+
+### Gameplay Section
+On gameplay section you can toggle from On/Off some elements of the HUD, 
+like the health floating bar or the character name.
+
+### Sound Section
+In the sound section you can adjust the SFX and Music level, and toggle them from on to off.
+
+    
+
+

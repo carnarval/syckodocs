@@ -15,6 +15,7 @@ pages:
  - Home: 'index.md'
  - Project Overview: 'ProjectOverview.md'
  - Gameplay and Mechanics: 'gameplay.md'
+ - Story: 'story.md'
 
 # Options
 extra:

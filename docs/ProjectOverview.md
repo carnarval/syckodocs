@@ -10,9 +10,6 @@ Action, Beat 'em Up, MMO
 Everyone from 14 to 24 yo.
 
 ## Game Flow Summary
-Programming Flow
-![GameFlow Image](images/gameflow.jpg)
 
-Game Flow
 
 ## Look and Feel
