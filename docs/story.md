@@ -30,13 +30,17 @@ after thirty years just four of them perished, which is: The Orphans; The Indies
 The Old Capital Patrol; and The Syndicate. All those fight for Sycko City Unification dreaming of one day to
 destroy the wall.
 
-### Factions and Alliances
+### Alliances
 1. **The Orphans**   
-    They are the innocent ones. The Capital has one birth control and because of that
-they must throw their child inside Sycko City. And the orphans are the one that took
-care of the children of this city.
-2. **The Syndicate**   
-    They are 
+   During the wall building the Capital started a severe birth control and
+   in consequence babies started to be sent from the capital to 
+   Sycko City. When the firsts babies arrived people didn't know what to do,
+   but one guy from a gang called Dark Strife took the babies to take care
+   of them. People sensitized by this guy action started to help him and then 
+   they created the Orphans alliance.
+2. **The Syndicate** 
+   
+    
 
  
 ## Game World
