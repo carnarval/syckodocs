@@ -11,7 +11,7 @@ let them starve to death in the name of the progress!" - A Capital Congressman a
 ### Briefing
 
 Once there were peace in the city that is now called Sycko City. Once people had the right to
-come and go. Once democracy wasn't just a word. But then people manipulated by powerful people
+come and go. Once democracy wasn't just a word. But then wealthy people manipulated by powerful people
 started to hate the state and it's democratic state of law in a propaganda that said "The government is communist, 
 we must purge 'em from this earth!". With time this hate became more and more stronger and people wanted
 something that could really "purge" this "evil" government, and then one day the military forces took the power state 
