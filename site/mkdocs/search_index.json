@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/ProjectOverview/", 
-            "text": "Project Overview\n#\n\n\nGame Concept\n#\n\n\nSycko City is a competitive multiplayer online game set on a post-apocalypse world where the player play as one single character and fight against other players from other gangs/factions in matchs.\n\n\nGenre\n#\n\n\nAction, Beat 'em Up, MMO\n\n\nTarget Audience\n#\n\n\nEveryone from 14 to 24 yo.\n\n\nGame Flow Summary\n#\n\n\nProgramming Flow\n\n\n\nGame Flow\n\n\nLook and Feel\n#", 
+            "text": "Project Overview\n#\n\n\nGame Concept\n#\n\n\nSycko City is a competitive multiplayer online game set on a post-apocalypse world where the player play as one single character and fight against other players from other gangs/factions in matchs.\n\n\nGenre\n#\n\n\nAction, Beat 'em Up, MMO\n\n\nTarget Audience\n#\n\n\nEveryone from 14 to 24 yo.\n\n\nGame Flow Summary\n#\n\n\nLook and Feel\n#", 
             "title": "Project Overview"
         }, 
         {
@@ -37,7 +37,7 @@
         }, 
         {
             "location": "/ProjectOverview/#game-flow-summary", 
-            "text": "Programming Flow  Game Flow", 
+            "text": "", 
             "title": "Game Flow Summary"
         }, 
         {
@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/gameplay/", 
-            "text": "Gameplay and Mechanics\n#\n\n\nGameplay\n#\n\n\nGame Progression\n#\n\n\nThere is two types of progression in the game, one is the \ncompetitive: the ranking, and the another one is the casual/individual: the level and achievements. \nWe will describe this two types below and how the'll affect the gameplay.\n\n\nRanking\n#\n\n\n    Worms's task\n\n\n\n\nLevel \n Achievements\n#\n\n\nLevel\n#\n\n\nAs many other games level is the basic casual and individual progression.\nAs you play you gain \nexperience\n and also \nlevel\n. As you reach new level\nyou unlock new items, basically \nrollers\n and also \nweapons\n.   \n\n\nThis table describe the level and weapons that players can unlock     \n\n\n\n\n\n\n\n\nLevel\n\n\nWeapon\n\n\nRoller\n\n\n\n\n\n\n\n\n\n\n1\n\n\nmetal\n\n\nis the law\n\n\n\n\n\n\n\n\nAchievements\n#\n\n\nAchievements are self compensations for things that you do on your own.\n\n\nList of achievements    \n\n\n\n\n\n\n\n\nAchievements\n\n\n\n\n\n\n\n\n\n\nKill 10 people\n\n\n\n\n\n\n\n\nObjectives and Matches.\n#\n\n\nOn Sycko City Early Access the main objective of the player is just\nwin the matches and advance his level/rank. \n\nThere are two kind of games (\ncasual\n and \nranked\n) and two kind of \nmatches(\nTDM\n and *DM\n). Those who begin to play the game start playing in\n\ncasual\n modes because it's just fun and not so much competitive/serious. As you become more\nskilled in the game and also powerful you will start to want more serious games \nwith players skilled as you, and for you we offer the \nranked* mode.\n\n\nPlay Flow\n#\n\n\nAs the gamer begin Sycko City, his first duty is create his own character,\nafter that he joins the Lobby where he can choose whatever he want to do inside the Sycko\nCity possibilities: join game matches, learn practicing, customize his character,\nbuy items (both cosmetic and functional) and also many other things.\n\n\nMechanics\n#\n\n\nSycko City mechanics is simple and objective.\n\n\nPhysics\n#\n\n\nThe game physics is a reproduction of the newtonian on a 3D space, but with more joy.\n\nThe player movement uses the joystick X,Y Axis or the keyboard arrows to move, \nit's a accelerated and inertial movement.    \n\n\n        We are also studying a possible acceleration and deacceleration button to player's movement.\n\n\n\n\nInteractive Objects\n#\n\n\nEvery object that have a minimal physics applied and that is inside game matches is considered interactive. The main and\nfundamental type of objects are the weapons, almost every interactive object is a weapon, like a trash can or a metal bar.\nThat's also one of the reasons why we call Sycko City a beat 'em up game.    \n\n\nThere is also another kind of interactive object that you can get outside of game matches and it's\ncalled Items. There are basically two kind of interactive items: Weapons and Rollers\n\n\nInteractive Objects Table - Get only inside matches\n#\n\n\n\n\n\n\n\n\nInteractive Object\n\n\nFunctionatily\n\n\n\n\n\n\n\n\n\n\nWhey Bar\n\n\n+10% of Health\n\n\n\n\n\n\n\n\nInteractive Weapons Table - Get only inside matches\n#\n\n\n\n\n\n\n\n\nWeapons Name\n\n\nMin Damage\n\n\nMax Damage\n\n\nDurability\n\n\nAttack Speed\n\n\n\n\n\n\n\n\n\n\nBottle\n\n\n2\n\n\n6\n\n\n3\n\n\n0.3s\n\n\n\n\n\n\n\n\nWeapon Items Table - Must be equipped outside matches\n#\n\n\n\n\n\n\n\n\nWeapons Name\n\n\nMin Damage\n\n\nMax Damage\n\n\nDurability\n\n\nAttack Speed\n\n\n\n\n\n\n\n\n\n\nCatuaba's Bottle\n\n\n3\n\n\n9\n\n\n6\n\n\n0.3s\n\n\n\n\n\n\n\n\nRollers Items Table - Must be equipped outside matches\n#\n\n\n\n\n\n\n\n\nRoller Name\n\n\nPassive Effect\n\n\n\n\n\n\n\n\n\n\n10Ben Inliner\n\n\n+10% of speed\n\n\n\n\n\n\n\n\n\n\nPS: inside matches you must pickup or drop your weapons through the specified pickup button.\n\n\n\n\nAction\n#\n\n\nThere is just a few important explanation about players attack in this section.\nTo attack players must hold and release the buttons to have a more effective attack. \nHold and Release speed changes with the character equipped weapon/roller.\n\n\nAbout buttons \n\n\n  Pickup objects: use the pickup button\n\n Attack L: Hold the Left Attack button.\n\n Attack R: Hold Right Attack button.\n\nDefense: Hold the deffense button.\n*Movement: move with the joystick axis or keyboard arrows.\n\n\nCombat\n#", 
+            "text": "Gameplay and Mechanics\n#\n\n\nGameplay\n#\n\n\nGame Progression\n#\n\n\nThere is two types of progression in the game, one is the \ncompetitive: the ranking, and the another one is the casual/individual: the level and achievements. \nWe will describe this two types below and how the'll affect the gameplay.\n\n\nRanking\n#\n\n\n    Worms's task\n\n\n\n\nLevel \n Achievements\n#\n\n\nLevel\n#\n\n\nAs many other games level is the basic casual and individual progression.\nAs you play you gain \nexperience\n and also \nlevel\n. As you reach new level\nyou unlock new items, basically \nrollers\n and also \nweapons\n.   \n\n\nThis table describe the level and weapons that players can unlock     \n\n\n\n\n\n\n\n\nLevel\n\n\nWeapon\n\n\nRoller\n\n\n\n\n\n\n\n\n\n\n1\n\n\nmetal\n\n\nis the law\n\n\n\n\n\n\n\n\nAchievements\n#\n\n\nAchievements are self compensations for things that you do on your own.\n\n\nList of achievements    \n\n\n\n\n\n\n\n\nAchievements\n\n\n\n\n\n\n\n\n\n\nKill 10 people\n\n\n\n\n\n\n\n\nObjectives and Matches.\n#\n\n\nOn Sycko City Early Access the main objective of the player is just\nwin the matches and advance his level/rank. \n\nThere are two kind of games (\ncasual\n and \nranked\n) and two kind of \nmatches(\nTDM\n and *DM\n). Those who begin to play the game start playing in\n\ncasual\n modes because it's just fun and not so much competitive/serious. As you become more\nskilled in the game and also powerful you will start to want more serious games \nwith players skilled as you, and for you we offer the \nranked* mode.\n\n\nPlay Flow\n#\n\n\nAs the gamer begin Sycko City, his first duty is create his own character,\nafter that he joins the Lobby where he can choose whatever he want to do inside the Sycko\nCity possibilities: join game matches, learn practicing, customize his character,\nbuy items (both cosmetic and functional) and also many other things.\n\n\nMechanics\n#\n\n\nSycko City mechanics is simple and objective.\n\n\nPhysics\n#\n\n\nThe game physics is a reproduction of the newtonian on a 3D space, but with more joy.\n\nThe player movement uses the joystick X,Y Axis or the keyboard arrows to move, \nit's a accelerated and inertial movement.    \n\n\n        We are also studying a possible acceleration and deacceleration button to player's movement.\n\n\n\n\nInteractive Objects\n#\n\n\nEvery object that have a minimal physics applied and that is inside game matches is considered interactive. The main and\nfundamental type of objects are the weapons, almost every interactive object is a weapon, like a trash can or a metal bar.\nThat's also one of the reasons why we call Sycko City a beat 'em up game.    \n\n\nThere is also another kind of interactive object that you can get outside of game matches and it's\ncalled Items. There are basically two kind of interactive items: Weapons and Rollers\n\n\nInteractive Objects Table - Get only inside matches\n#\n\n\n\n\n\n\n\n\nInteractive Object\n\n\nFunctionatily\n\n\n\n\n\n\n\n\n\n\nWhey Bar\n\n\n+10% of Health\n\n\n\n\n\n\n\n\nInteractive Weapons Table - Get only inside matches\n#\n\n\n\n\n\n\n\n\nWeapons Name\n\n\nMin Damage\n\n\nMax Damage\n\n\nDurability\n\n\nAttack Speed\n\n\n\n\n\n\n\n\n\n\nBottle\n\n\n2\n\n\n6\n\n\n3\n\n\n0.3s\n\n\n\n\n\n\n\n\nWeapon Items Table - Must be equipped outside matches\n#\n\n\n\n\n\n\n\n\nWeapons Name\n\n\nMin Damage\n\n\nMax Damage\n\n\nDurability\n\n\nAttack Speed\n\n\n\n\n\n\n\n\n\n\nCatuaba's Bottle\n\n\n3\n\n\n9\n\n\n6\n\n\n0.3s\n\n\n\n\n\n\n\n\nRollers Items Table - Must be equipped outside matches\n#\n\n\n\n\n\n\n\n\nRoller Name\n\n\nPassive Effect\n\n\n\n\n\n\n\n\n\n\n10Ben Inliner\n\n\n+10% of speed\n\n\n\n\n\n\n\n\n\n\nPS: inside matches you must pickup or drop your weapons through the specified pickup button.\n\n\n\n\nAction and Combat\n#\n\n\nSycko City is a multilayer fight game where players fight against each other with\ncold weapons and rollers on foot, and to attack, players must hold and release the attack buttons to have a more effective attack. \nHold and Release speed changes with the character equipped weapon/roller.\n\n\nButtons\n#\n\n\n\n\n\n\n\n\nButton\n\n\nKeyboard\n\n\nJoystick\n\n\n\n\n\n\n\n\n\n\nAttack L\n\n\nA\n\n\nX\n\n\n\n\n\n\nAttack R\n\n\nS\n\n\nA\n\n\n\n\n\n\nDefense\n\n\nX\n\n\nL1\n\n\n\n\n\n\nMovement\n\n\nDirectional\n\n\nL-Axis\n\n\n\n\n\n\n\n\nEconomy\n#\n\n\nThe game mechanics economy is basically the money and the progression as explained above. The money of the game\nis the quantity of water that a character have, let's say that it's the exchange coin. As player progress in game he unlocks\nmore items and then he can spend his water on it. He also can buy cosmetic items with real life money.\n\n\nScreen Flow\n#\n\n\n\n\nGame Option\n#\n\n\nGame option is divided in sections, below is each one of them.\n\n\nGraphic Section\n#\n\n\nOn Graphic Section you can adjust your brightness and your graphic quality. You\ncan toggle from fullscreen to windowed and also change the screen size.\n\n\nGameplay Section\n#\n\n\nOn gameplay section you can toggle from On/Off some elements of the HUD, \nlike the health floating bar or the character name.\n\n\nSound Section\n#\n\n\nIn the sound section you can adjust the SFX and Music level, and toggle them from on to off.", 
             "title": "Gameplay and Mechanics"
         }, 
         {
@@ -131,14 +131,69 @@
             "title": "Rollers Items Table - Must be equipped outside matches"
         }, 
         {
-            "location": "/gameplay/#action", 
-            "text": "There is just a few important explanation about players attack in this section.\nTo attack players must hold and release the buttons to have a more effective attack. \nHold and Release speed changes with the character equipped weapon/roller.  About buttons     Pickup objects: use the pickup button  Attack L: Hold the Left Attack button.  Attack R: Hold Right Attack button. Defense: Hold the deffense button.\n*Movement: move with the joystick axis or keyboard arrows.", 
-            "title": "Action"
+            "location": "/gameplay/#action-and-combat", 
+            "text": "Sycko City is a multilayer fight game where players fight against each other with\ncold weapons and rollers on foot, and to attack, players must hold and release the attack buttons to have a more effective attack. \nHold and Release speed changes with the character equipped weapon/roller.", 
+            "title": "Action and Combat"
         }, 
         {
-            "location": "/gameplay/#combat", 
+            "location": "/gameplay/#buttons", 
+            "text": "Button  Keyboard  Joystick      Attack L  A  X    Attack R  S  A    Defense  X  L1    Movement  Directional  L-Axis", 
+            "title": "Buttons"
+        }, 
+        {
+            "location": "/gameplay/#economy", 
+            "text": "The game mechanics economy is basically the money and the progression as explained above. The money of the game\nis the quantity of water that a character have, let's say that it's the exchange coin. As player progress in game he unlocks\nmore items and then he can spend his water on it. He also can buy cosmetic items with real life money.", 
+            "title": "Economy"
+        }, 
+        {
+            "location": "/gameplay/#screen-flow", 
             "text": "", 
-            "title": "Combat"
+            "title": "Screen Flow"
+        }, 
+        {
+            "location": "/gameplay/#game-option", 
+            "text": "Game option is divided in sections, below is each one of them.", 
+            "title": "Game Option"
+        }, 
+        {
+            "location": "/gameplay/#graphic-section", 
+            "text": "On Graphic Section you can adjust your brightness and your graphic quality. You\ncan toggle from fullscreen to windowed and also change the screen size.", 
+            "title": "Graphic Section"
+        }, 
+        {
+            "location": "/gameplay/#gameplay-section", 
+            "text": "On gameplay section you can toggle from On/Off some elements of the HUD, \nlike the health floating bar or the character name.", 
+            "title": "Gameplay Section"
+        }, 
+        {
+            "location": "/gameplay/#sound-section", 
+            "text": "In the sound section you can adjust the SFX and Music level, and toggle them from on to off.", 
+            "title": "Sound Section"
+        }, 
+        {
+            "location": "/story/", 
+            "text": "\"Sycko City, heh... I remember! The word Sycko come from these two words: Psycho and Sick, and that describe well what\nSycko City it is...\" - An old man about Sycko City  \n\n\"A huge trash can to trash people\" - 12 yo boy about Sycko City \n\n\"They don't contribute to society these bunch of useless freaks, \nlet them starve to death in the name of the progress!\" - A Capital Congressman about Sycko City  \n\n\"If you put on channel 7 on monday 00h am you can see them fighting, it's sooo coool!!\" A young woman about Sycko City\n\n\"If we don't clean our dishes who will?\" - Capital Prime Minister about Sycko City\n   \n\n\nStory and Narrative\n#\n\n\nBriefing\n#\n\n\nOnce there were peace in the city that is now called Sycko City. Once people had the right to\ncome and go. Once democracy wasn't just a word. But then people manipulated by powerful people\nstarted to hate the state and it's democratic state of law in a propaganda that said \"The government is communist, \nwe must purge 'em from this earth!\". With time this hate became more and more stronger and people wanted\nsomething that could really \"purge\" this \"evil\" government, and then one day the military forces took the power state \nand installed a authoritative government.     \n\n\nSycko City started to become \"the\" Sycko City is this time. The Capital government wasn't handling the people\nneeds and security was also not ensured, and with that gangs became to grow and people became to fight\nagainst each other. At this time the government started to build a big wall around all this mess,\nthe mess that they created, and it was a truly social segregation. They even created a task force, called The Capital Patrol,\nto ensure that the poorest stay inside the walls limits and the richest outside of it. When the wall was built they\ncompletely forgot of those inside, even their own task force.\n\n\nWith the wall built some of the gangs got together creating alliances to survive in this big \nconcentration camp. In the beginning there were a lot of alliances but \nafter thirty years just four of them perished, which is: The Orphans; The Indies; \nThe Old Capital Patrol; and The Syndicate. All those fight for Sycko City Unification dreaming of one day to\ndestroy the wall.\n\n\nFactions and Alliances\n#\n\n\n\n\nThe Orphans\n \n\n    They are the innocent ones. The Capital has one birth control and because of that\nthey must throw their child inside Sycko City. And the orphans are the one that took\ncare of the children of this city.\n\n\nThe Syndicate\n \n\n    They are \n\n\n\n\nGame World\n#", 
+            "title": "Story"
+        }, 
+        {
+            "location": "/story/#story-and-narrative", 
+            "text": "", 
+            "title": "Story and Narrative"
+        }, 
+        {
+            "location": "/story/#briefing", 
+            "text": "Once there were peace in the city that is now called Sycko City. Once people had the right to\ncome and go. Once democracy wasn't just a word. But then people manipulated by powerful people\nstarted to hate the state and it's democratic state of law in a propaganda that said \"The government is communist, \nwe must purge 'em from this earth!\". With time this hate became more and more stronger and people wanted\nsomething that could really \"purge\" this \"evil\" government, and then one day the military forces took the power state \nand installed a authoritative government.       Sycko City started to become \"the\" Sycko City is this time. The Capital government wasn't handling the people\nneeds and security was also not ensured, and with that gangs became to grow and people became to fight\nagainst each other. At this time the government started to build a big wall around all this mess,\nthe mess that they created, and it was a truly social segregation. They even created a task force, called The Capital Patrol,\nto ensure that the poorest stay inside the walls limits and the richest outside of it. When the wall was built they\ncompletely forgot of those inside, even their own task force.  With the wall built some of the gangs got together creating alliances to survive in this big \nconcentration camp. In the beginning there were a lot of alliances but \nafter thirty years just four of them perished, which is: The Orphans; The Indies; \nThe Old Capital Patrol; and The Syndicate. All those fight for Sycko City Unification dreaming of one day to\ndestroy the wall.", 
+            "title": "Briefing"
+        }, 
+        {
+            "location": "/story/#factions-and-alliances", 
+            "text": "The Orphans   \n    They are the innocent ones. The Capital has one birth control and because of that\nthey must throw their child inside Sycko City. And the orphans are the one that took\ncare of the children of this city.  The Syndicate   \n    They are", 
+            "title": "Factions and Alliances"
+        }, 
+        {
+            "location": "/story/#game-world", 
+            "text": "", 
+            "title": "Game World"
         }
     ]
 }
