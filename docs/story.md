@@ -12,12 +12,11 @@ let them starve to death in the name of the progress!" - A Capital Congressman a
 
 Once there were peace in the city that is now called Sycko City. Once people had the right to
 come and go. Once democracy wasn't just a word. But then wealthy people manipulated by powerful people
-started to hate the state and it's democratic state of law in a propaganda that said "The government is communist, 
-we must purge 'em from this earth!". With time this hate became more and more stronger and people wanted
-something that could really "purge" this "evil" government, and then one day the military forces took the power state 
+started to hate the actual government. With time this hate became more and more stronger and people wanted
+something that could really purge this government, and then one day the military forces took the power state 
 and installed a authoritative government.     
      
-Sycko City started to become "the" Sycko City is this time. The Capital government wasn't handling the people
+Sycko City started to become "the" Sycko City in this time. The Capital government wasn't handling the people
 needs and security was also not ensured, and with that gangs became to grow and people became to fight
 against each other. At this time the government started to build a big wall around all this mess,
 the mess that they created, and it was a truly social segregation. They even created a task force, called The Capital Patrol,
@@ -32,13 +31,20 @@ destroy the wall.
 
 ### Alliances
 1. **The Orphans**   
-   During the wall building the Capital started a severe birth control and
-   in consequence babies started to be sent from the capital to 
-   Sycko City. When the firsts babies arrived people didn't know what to do,
-   but one guy from a gang called Dark Strife took the babies to take care
-   of them. People sensitized by this guy action started to help him and then 
-   they created the Orphans alliance.
-2. **The Syndicate** 
+   <!--During the wall building the Capital started a severe birth control and-->
+   <!--in consequence babies started to be sent from the capital to -->
+   <!--Sycko City. When the firsts babies arrived people didn't know what to do,-->
+   <!--but one guy from a gang called Dark Strife took the babies to take care-->
+   <!--of them. People sensitized by this guy action started to help him and then -->
+   <!--they created the Orphans alliance.-->
+   During the wall building the poor couldn't raise their children anymore,
+   so most of them started to abandon their children. But people with good will
+   created an alliance to take care of them, that is now called
+   The Orphans.
+   
+2. **The Syndicate**   
+
+   
    
     
 
